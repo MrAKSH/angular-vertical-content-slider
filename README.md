@@ -1,0 +1,1 @@
+# angular-vertical-content-slider
